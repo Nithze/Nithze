@@ -6,6 +6,7 @@
 
 ![](https://img.shields.io/badge/Code-React-red?style=flat&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Code-HTML5-red?style=flat&logo=HTML5&logoColor=white)
+![](https://img.shields.io/badge/Code-CSS-red?style=flat&logo=CSS&logoColor=white)
 
 ![](https://img.shields.io/badge/Code-JavaScript-red?style=flat&logo=JavaScript&logoColor=white)
 ![](https://img.shields.io/badge/Code-JWT-red?style=flat&logo=JSON%20web%20tokens&logoColor=white)
