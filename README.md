@@ -12,6 +12,5 @@
 
 - 🔭 **I’m currently working on:** AKA-RCHIVE
 - 🌱 **I’m currently learning:** MongoDB
-
 - ⚙️ Tech Stack: `.js`, `.jsx`, `.vue`, `.php`, `.blade`, `.html`, `.scss`
 
