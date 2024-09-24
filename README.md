@@ -12,7 +12,6 @@
 
 - 🔭 **I’m currently working on:** AKA-RCHIVE
 - 🌱 **I’m currently learning:** MongoDB
-- 💬 **Ask me about:** 7-0
 
 
 ![](https://img.shields.io/badge/Framework-node.js-FF0000?style=flat&logo=node.js&logoColor=white)
