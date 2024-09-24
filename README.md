@@ -22,4 +22,4 @@
 ![](https://img.shields.io/badge/Database-MongoDB-FF0000?style=flat&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Database-SQL-FF0000?style=flat&logo=postgresql&logoColor=white)
 
-![Alt](https://repobeats.axiom.co/api/embed/592bedddd88888d5bd2dfdd604607c0bcad517b5.svg "Repobeats analytics image")
+
