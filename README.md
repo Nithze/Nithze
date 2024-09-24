@@ -1,9 +1,7 @@
-![](https://img.shields.io/badge/Framework-node.js-FF0000?style=flat&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Code-React-FF0000?style=flat&logo=react&logoColor=white)
-![](https://img.shields.io/badge/Code-JavaScript-FF0000?style=flat&logo=JavaScript&logoColor=white)
-![](https://img.shields.io/badge/Framework-Laravel-FF0000?style=flat&logo=laravel&logoColor=white)
-![](https://img.shields.io/badge/Code-Vue.js-FF0000?style=flat&logo=vue.js&logoColor=white)
-![](https://img.shields.io/badge/Database-MongoDB-FF0000?style=flat&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/Database-SQL-FF0000?style=flat&logo=postgresql&logoColor=white)
-
-
+![](https://img.shields.io/badge/Framework-node.js-ba0001?style=flat&logo=node.js&logoColor=ba0001)
+![](https://img.shields.io/badge/Code-React-ba0001?style=flat&logo=react&logoColor=ba0001)
+![](https://img.shields.io/badge/Code-JavaScript-ba0001?style=flat&logo=JavaScript&logoColor=ba0001)
+![](https://img.shields.io/badge/Framework-Laravel-ba0001?style=flat&logo=laravel&logoColor=ba0001)
+![](https://img.shields.io/badge/Code-Vue.js-ba0001?style=flat&logo=vue.js&logoColor=ba0001)
+![](https://img.shields.io/badge/Database-MongoDB-ba0001?style=flat&logo=mongodb&logoColor=ba0001)
+![](https://img.shields.io/badge/Database-SQL-ba0001?style=flat&logo=postgresql&logoColor=ba0001)
