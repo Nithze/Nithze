@@ -10,6 +10,9 @@
 </p>
 
 - ⚙️ Tech Stack: `.js`, `.jsx`, `.vue`, `.php`, `.blade`, `.html`, `.scss`
+- Frontend: `.js`, `.jsx`, `.vue`, `.html`, `.scss`
+- Backend: `.php`, `.blade`, `.js` (Node.js)
+- Database: `.mongodb`
 - 🔭 **I’m currently working on:** AKA-RCHIVE
 - 🌱 **I’m currently learning:** MongoDB
 
