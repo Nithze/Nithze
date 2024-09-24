@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Framework-node.js-23d400?style=flat&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Framework-node.js-158200?style=flat&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Code-React-FF0000?style=flat&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Code-JavaScript-FF0000?style=flat&logo=JavaScript&logoColor=white)
 ![](https://img.shields.io/badge/Framework-Laravel-FF0000?style=flat&logo=laravel&logoColor=white)
