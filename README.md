@@ -10,6 +10,12 @@
    <a href="mailto:aldiyusronazhar@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-aldiyusronazhar@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aldiyusronazhar@gmail.com"></a>
 </p>
 
+
+- 🔭 **I’m currently working on:** AKA-RCHIVE
+- 🌱 **I’m currently learning:** MongoDB
+- 💬 **Ask me about:** 7-0
+
+
 ![](https://img.shields.io/badge/Framework-node.js-158200?style=flat&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Code-React-0025cc?style=flat&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Code-JavaScript-d16900?style=flat&logo=JavaScript&logoColor=white)
