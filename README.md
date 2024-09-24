@@ -9,10 +9,7 @@
    <a href="mailto:aldiyusronazhar@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-aldiyusronazhar@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aldiyusronazhar@gmail.com"></a>
 </p>
 
-- ⚙️ Tech Stack: `.js`, `.jsx`, `.vue`, `.php`, `.blade`, `.html`, `.scss`
-- Frontend: `.js`, `.jsx`, `.vue`, `.html`, `.scss`
-- Backend: `.php`, `.blade`, `.js` (Node.js)
-- Database: `.mongodb`
+- ⚙️ Tech Stack: `.js`, `.jsx`, `.vue`, `.php`, `.blade`, `.html`, `.scss`,
 - 🔭 **I’m currently working on:** AKA-RCHIVE
 - 🌱 **I’m currently learning:** MongoDB
 
