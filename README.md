@@ -1,3 +1,15 @@
+<h1 align="left"> Hey there, I'm Azhar 👋 </h1>
+
+<h3 align="left">I am a frontend developer interested in UI/UX and graphic design.</h3>
+
+
+<p align="left">
+   <a href="https://yithze.co/"><img alt="Portfolio" src="https://img.shields.io/badge/-dewith.co-black?style=flat-square&logo=squarespace&logoColor=white&link=https://dewith.co/"></a>
+   <a href="https://www.linkedin.com/in/#/"><img alt="LinkedIn" src="https://img.shields.io/badge/-azhar-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dewithmiramon/"></a>
+   <a href="https://instagram.com/yithze"><img alt="Twitter" src="https://img.shields.io/badge/-@yithze-black?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/DewithMiramon"></a>
+   <a href="mailto:aldiyusronazhar@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-aldiyusronazhar@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aldiyusronazhar@gmail.com"></a>
+</p>
+
 ![](https://img.shields.io/badge/Framework-node.js-158200?style=flat&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Code-React-0025cc?style=flat&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Code-JavaScript-d16900?style=flat&logo=JavaScript&logoColor=white)
