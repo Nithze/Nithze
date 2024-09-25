@@ -13,4 +13,5 @@
 - 🔭 **I’m currently working on:** AKA-RCHIVE
 - 🌱 **I’m currently learning:** MongoDB, GreenSock Animation Platform
 
+![](https://img.shields.io/badge/OS-Arch-FF0000?style=flat&logo=archlinux&logoColor=white)
 
