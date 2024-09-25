@@ -1,4 +1,6 @@
-<h1 align="left"> Hey there, I'm Azhar</h1>![](https://img.shields.io/badge/Arch-Linux-FF0000?style=flat&logo=archlinux&logoColor=white) 
+<h1 align="left"> Hey there, I'm Azhar</h1> 
+
+![](https://img.shields.io/badge/Arch-Linux-FF0000?style=flat&logo=archlinux&logoColor=white) 
 
 <h3 align="left">I am a frontend developer interested in UI/UX and graphic design.</h3>
 
