@@ -1,6 +1,5 @@
 <h1 align="left"> Hey there, I'm Azhar</h1> 
 
-![](https://img.shields.io/badge/AldiYusron-Azhar-FF0000?style=flat&logo=&logoColor=white) 
 
 <h3 align="left">I am a frontend developer interested in UI/UX and graphic design.</h3>
 
@@ -15,5 +14,5 @@
 - 🔭 **I’m currently working on:** AKA-RCHIVE
 - 🌱 **I’m currently learning:** MongoDB, GreenSock Animation Platform
 
-I use ![](https://img.shields.io/badge/Arch-Linux-FF0000?style=flat&logo=archlinux&logoColor=white) BTW
+![](https://img.shields.io/badge/Arch-Linux-FF0000?style=flat&logo=archlinux&logoColor=white)
 
