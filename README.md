@@ -1,4 +1,4 @@
-<h1 align="left"> Hey there, I'm Azhar </h1>
+<h1 align="left"> Hey there, I'm Azhar![](https://img.shields.io/badge/Arch-Linux-FF0000?style=flat&logo=archlinux&logoColor=white) </h1>
 
 <h3 align="left">I am a frontend developer interested in UI/UX and graphic design.</h3>
 
@@ -13,5 +13,5 @@
 - 🔭 **I’m currently working on:** AKA-RCHIVE
 - 🌱 **I’m currently learning:** MongoDB, GreenSock Animation Platform
 
-![](https://img.shields.io/badge/Arch-Linux-FF0000?style=flat&logo=archlinux&logoColor=white)
+I use ![](https://img.shields.io/badge/Arch-Linux-FF0000?style=flat&logo=archlinux&logoColor=white) BTW
 
