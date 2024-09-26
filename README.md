@@ -19,4 +19,6 @@
 
 ![](https://img.shields.io/badge/Arch-Linux-FF0000?style=flat&logo=archlinux&logoColor=white)
 
+lmao
+
 
