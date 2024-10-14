@@ -1,6 +1,6 @@
 <h1 align="left"> Hey there, I'm Azhar</h1> 
    
-  
+   
 <h3 align="left">I am a frontend developer interested in UI/UX and graphic design.</h3>
   
 <p align="left">
