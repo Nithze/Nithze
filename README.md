@@ -14,7 +14,7 @@
 - 🔭 **I’m currently working on:** AKA-RCHIVE
 - 🌱 **I’m currently learning:** NodeJS Backend, MongoDB, GreenSock Animation Platform
 - I study at TUNAS MEDIA DEPOK VOCATIONAL SCHOOL
-
+ 
 ![](https://img.shields.io/badge/Arch-Linux-FF0000?style=flat&logo=archlinux&logoColor=white)
 
 lmao
