@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Nithze and i'm a software software engineer student 
+Hi 👋 I'm Nithze and i'm a software engineer student 
 
 
 ## 🌐 Socials:
