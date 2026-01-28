@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Nithze and i'm a software engineer student 
+Hi 👋 I'm Nithze, a software engineering student, full stack developer, and self-taught game developer.
 
 
 ## 🌐 Socials:
