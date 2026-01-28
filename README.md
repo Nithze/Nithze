@@ -47,7 +47,7 @@ Hi 👋 I'm Nithze and i'm a software engineer student
 ![Godot](https://img.shields.io/badge/Godot-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=for-the-badge&logo=unreal-engine&logoColor=white)
-
+![Aseprite](https://img.shields.io/badge/Aseprite-%23F06A6A.svg?style=for-the-badge&logo=aseprite&logoColor=white)
 
   
 
